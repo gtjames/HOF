@@ -12,7 +12,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -4350,
@@ -27,7 +27,7 @@
       "Type": "Caldera",
       "VEI": 7,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -4050,
@@ -42,7 +42,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -4000,
@@ -57,7 +57,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -3580,
@@ -72,7 +72,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -3550,
@@ -87,7 +87,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -2420,
@@ -102,7 +102,7 @@
       "Type": "Complex volcano",
       "VEI": 5,
       "Agent": "P,T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -2040,
@@ -117,7 +117,7 @@
       "Type": "Complex volcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1900,
@@ -132,7 +132,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1860,
@@ -147,7 +147,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1750,
@@ -162,7 +162,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1645,
@@ -177,7 +177,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1610,
@@ -192,7 +192,7 @@
       "Type": "Shield volcano",
       "VEI": 6,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1550,
@@ -207,7 +207,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1460,
@@ -222,7 +222,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1370,
@@ -237,7 +237,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1050,
@@ -252,7 +252,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -1010,
@@ -267,7 +267,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -455,
@@ -282,7 +282,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -250,
@@ -297,7 +297,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -197,
@@ -312,7 +312,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -150,
@@ -327,7 +327,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -141,
@@ -342,7 +342,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 40
+      "Deaths": 40
     },
     {
       "Year": -100,
@@ -357,7 +357,7 @@
       "Type": "Shield volcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": -50,
@@ -372,7 +372,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 46,
@@ -387,7 +387,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 50,
@@ -402,7 +402,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 60,
@@ -417,7 +417,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 79,
@@ -432,7 +432,7 @@
       "Type": "Complex volcano",
       "VEI": 5,
       "Agent": "P,T",
-      "DEATHS": 3500
+      "Deaths": 3500
     },
     {
       "Year": 200,
@@ -447,7 +447,7 @@
       "Type": "Volcanic field",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 230,
@@ -462,7 +462,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 240,
@@ -477,7 +477,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 350,
@@ -492,7 +492,7 @@
       "Type": "Lava dome",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 416,
@@ -507,7 +507,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 450,
@@ -522,7 +522,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": 30000
+      "Deaths": 30000
     },
     {
       "Year": 500,
@@ -537,7 +537,7 @@
       "Type": "Volcanic field",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 540,
@@ -552,7 +552,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 590,
@@ -567,7 +567,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 640,
@@ -582,7 +582,7 @@
       "Type": "Volcanic field",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 710,
@@ -597,7 +597,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 764,
@@ -612,7 +612,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T,L",
-      "DEATHS": 80
+      "Deaths": 80
     },
     {
       "Year": 766,
@@ -627,7 +627,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 787,
@@ -642,7 +642,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 800,
@@ -657,7 +657,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 800,
@@ -672,7 +672,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 920,
@@ -687,7 +687,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 930,
@@ -702,7 +702,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 934,
@@ -717,7 +717,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 950,
@@ -732,7 +732,7 @@
       "Type": "Subglacial volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1000,
@@ -747,7 +747,7 @@
       "Type": "Stratovolcano",
       "VEI": 7,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1050,
@@ -762,7 +762,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1104,
@@ -777,7 +777,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1151,
@@ -792,7 +792,7 @@
       "Type": "Crater rows",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1158,
@@ -807,7 +807,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1169,
@@ -822,7 +822,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "S,W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1169,
@@ -837,7 +837,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1177,
@@ -852,7 +852,7 @@
       "Type": "Subglacial volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1206,
@@ -867,7 +867,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1250,
@@ -882,7 +882,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1262,
@@ -897,7 +897,7 @@
       "Type": "Subglacial volcano",
       "VEI": 3,
       "Agent": "F",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1280,
@@ -912,7 +912,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1300,
@@ -927,7 +927,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1302,
@@ -942,7 +942,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1311,
@@ -957,7 +957,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "F",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1311,
@@ -972,7 +972,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1329,
@@ -987,7 +987,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1329,
@@ -1002,7 +1002,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1331,
@@ -1017,7 +1017,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1334,
@@ -1032,7 +1032,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1341,
@@ -1047,7 +1047,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1357,
@@ -1062,7 +1062,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1362,
@@ -1077,7 +1077,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "T,F",
-      "DEATHS": 220
+      "Deaths": 220
     },
     {
       "Year": 1375,
@@ -1092,7 +1092,7 @@
       "Type": "Tuff cone",
       "VEI": 5,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1376,
@@ -1107,7 +1107,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1385,
@@ -1122,7 +1122,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1389,
@@ -1137,7 +1137,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1410,
@@ -1152,7 +1152,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 180
+      "Deaths": 180
     },
     {
       "Year": 1452,
@@ -1167,7 +1167,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1471,
@@ -1182,7 +1182,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1477,
@@ -1197,7 +1197,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1485,
@@ -1212,7 +1212,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1500,
@@ -1227,7 +1227,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1510,
@@ -1242,7 +1242,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1510,
@@ -1257,7 +1257,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1536,
@@ -1272,7 +1272,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1538,
@@ -1287,7 +1287,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 24
+      "Deaths": 24
     },
     {
       "Year": 1540,
@@ -1302,7 +1302,7 @@
       "Type": "Lava dome",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1550,
@@ -1317,7 +1317,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1564,
@@ -1332,7 +1332,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1565,
@@ -1347,7 +1347,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1566,
@@ -1362,7 +1362,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1568,
@@ -1377,7 +1377,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,T,M",
-      "DEATHS": 1001
+      "Deaths": 1001
     },
     {
       "Year": 1570,
@@ -1392,7 +1392,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 400
+      "Deaths": 400
     },
     {
       "Year": 1576,
@@ -1407,7 +1407,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1580,
@@ -1422,7 +1422,7 @@
       "Type": "Fissure vent",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1580,
@@ -1437,7 +1437,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1581,
@@ -1452,7 +1452,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1586,
@@ -1467,7 +1467,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": 10000
+      "Deaths": 10000
     },
     {
       "Year": 1587,
@@ -1482,7 +1482,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1590,
@@ -1497,7 +1497,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1593,
@@ -1512,7 +1512,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1595,
@@ -1527,7 +1527,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": 636
+      "Deaths": 636
     },
     {
       "Year": 1596,
@@ -1542,7 +1542,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1597,
@@ -1557,7 +1557,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1597,
@@ -1572,7 +1572,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1598,
@@ -1587,7 +1587,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 800
+      "Deaths": 800
     },
     {
       "Year": 1598,
@@ -1602,7 +1602,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1600,
@@ -1617,7 +1617,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "S",
-      "DEATHS": 1400
+      "Deaths": 1400
     },
     {
       "Year": 1606,
@@ -1632,7 +1632,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1608,
@@ -1647,7 +1647,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1609,
@@ -1662,7 +1662,7 @@
       "Type": "Pyroclastic cone",
       "VEI": "",
       "Agent": "E",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1615,
@@ -1677,7 +1677,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1617,
@@ -1692,7 +1692,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1625,
@@ -1707,7 +1707,7 @@
       "Type": "Subglacial volcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1629,
@@ -1722,7 +1722,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "F",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1630,
@@ -1737,7 +1737,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M,T",
-      "DEATHS": 200
+      "Deaths": 200
     },
     {
       "Year": 1631,
@@ -1752,7 +1752,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "S",
-      "DEATHS": 50
+      "Deaths": 50
     },
     {
       "Year": 1631,
@@ -1767,7 +1767,7 @@
       "Type": "Complex volcano",
       "VEI": 4,
       "Agent": "P,E,M",
-      "DEATHS": 4000
+      "Deaths": 4000
     },
     {
       "Year": 1636,
@@ -1782,7 +1782,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1638,
@@ -1797,7 +1797,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 1000
+      "Deaths": 1000
     },
     {
       "Year": 1640,
@@ -1812,7 +1812,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1640,
@@ -1827,7 +1827,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 5000
+      "Deaths": 5000
     },
     {
       "Year": 1646,
@@ -1842,7 +1842,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1650,
@@ -1857,7 +1857,7 @@
       "Type": "Shield volcano",
       "VEI": 4,
       "Agent": "G,W,T",
-      "DEATHS": 120
+      "Deaths": 120
     },
     {
       "Year": 1659,
@@ -1872,7 +1872,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "S",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1659,
@@ -1887,7 +1887,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1660,
@@ -1902,7 +1902,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "G,T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1660,
@@ -1917,7 +1917,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1660,
@@ -1932,7 +1932,7 @@
       "Type": "Complex volcano",
       "VEI": 6,
       "Agent": "T,P,W,I",
-      "DEATHS": 2000
+      "Deaths": 2000
     },
     {
       "Year": 1663,
@@ -1947,7 +1947,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "T,P",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1664,
@@ -1962,7 +1962,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "m",
-      "DEATHS": 30
+      "Deaths": 30
     },
     {
       "Year": 1664,
@@ -1977,7 +1977,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1669,
@@ -1992,7 +1992,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1669,
@@ -2007,7 +2007,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "L",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1670,
@@ -2022,7 +2022,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1672,
@@ -2037,7 +2037,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1672,
@@ -2052,7 +2052,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 3000
+      "Deaths": 3000
     },
     {
       "Year": 1673,
@@ -2067,7 +2067,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1677,
@@ -2082,7 +2082,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1679,
@@ -2097,7 +2097,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1682,
@@ -2112,7 +2112,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1684,
@@ -2127,7 +2127,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "F",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1690,
@@ -2142,7 +2142,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1690,
@@ -2157,7 +2157,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1692,
@@ -2172,7 +2172,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1693,
@@ -2187,7 +2187,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1693,
@@ -2202,7 +2202,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1694,
@@ -2217,7 +2217,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1698,
@@ -2232,7 +2232,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1698,
@@ -2247,7 +2247,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1698,
@@ -2262,7 +2262,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1706,
@@ -2277,7 +2277,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1707,
@@ -2292,7 +2292,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1707,
@@ -2307,7 +2307,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1711,
@@ -2322,7 +2322,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 3000
+      "Deaths": 3000
     },
     {
       "Year": 1712,
@@ -2337,7 +2337,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1714,
@@ -2352,7 +2352,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1716,
@@ -2367,7 +2367,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1716,
@@ -2382,7 +2382,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1716,
@@ -2397,7 +2397,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1716,
@@ -2412,7 +2412,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1717,
@@ -2427,7 +2427,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1717,
@@ -2442,7 +2442,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1717,
@@ -2457,7 +2457,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1718,
@@ -2472,7 +2472,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1721,
@@ -2487,7 +2487,7 @@
       "Type": "Subglacial volcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1721,
@@ -2502,7 +2502,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 15
+      "Deaths": 15
     },
     {
       "Year": 1726,
@@ -2517,7 +2517,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1727,
@@ -2532,7 +2532,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "F",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1729,
@@ -2547,7 +2547,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1729,
@@ -2562,7 +2562,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1730,
@@ -2577,7 +2577,7 @@
       "Type": "Fissure vent",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1730,
@@ -2592,7 +2592,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M,T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1730,
@@ -2607,7 +2607,7 @@
       "Type": "Pyroclastic cone",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1737,
@@ -2622,7 +2622,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1741,
@@ -2637,7 +2637,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "W,S",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1742,
@@ -2652,7 +2652,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1742,
@@ -2667,7 +2667,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1749,
@@ -2682,7 +2682,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1753,
@@ -2697,7 +2697,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1754,
@@ -2712,7 +2712,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "W,T",
-      "DEATHS": 12
+      "Deaths": 12
     },
     {
       "Year": 1755,
@@ -2727,7 +2727,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "E",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1757,
@@ -2742,7 +2742,7 @@
       "Type": "Fissure vent",
       "VEI": 0,
       "Agent": "S",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1760,
@@ -2757,7 +2757,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": 2000
+      "Deaths": 2000
     },
     {
       "Year": 1762,
@@ -2772,7 +2772,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1766,
@@ -2787,7 +2787,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1766,
@@ -2802,7 +2802,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "m",
-      "DEATHS": 49
+      "Deaths": 49
     },
     {
       "Year": 1768,
@@ -2817,7 +2817,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1772,
@@ -2832,7 +2832,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 35
+      "Deaths": 35
     },
     {
       "Year": 1772,
@@ -2847,7 +2847,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "A",
-      "DEATHS": 2957
+      "Deaths": 2957
     },
     {
       "Year": 1773,
@@ -2862,7 +2862,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1775,
@@ -2877,7 +2877,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,I",
-      "DEATHS": 1300
+      "Deaths": 1300
     },
     {
       "Year": 1775,
@@ -2892,7 +2892,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1778,
@@ -2907,7 +2907,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 15
+      "Deaths": 15
     },
     {
       "Year": 1779,
@@ -2922,7 +2922,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1779,
@@ -2937,7 +2937,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T,W,I",
-      "DEATHS": 153
+      "Deaths": 153
     },
     {
       "Year": 1780,
@@ -2952,7 +2952,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "F",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1780,
@@ -2967,7 +2967,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 1780,
@@ -2982,7 +2982,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1780,
@@ -2997,7 +2997,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1781,
@@ -3012,7 +3012,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "W",
-      "DEATHS": 23
+      "Deaths": 23
     },
     {
       "Year": 1783,
@@ -3027,7 +3027,7 @@
       "Type": "Complex volcano",
       "VEI": 4,
       "Agent": "F,P,I",
-      "DEATHS": 1491
+      "Deaths": 1491
     },
     {
       "Year": 1784,
@@ -3042,7 +3042,7 @@
       "Type": "Caldera",
       "VEI": 4,
       "Agent": "I",
-      "DEATHS": 9350
+      "Deaths": 9350
     },
     {
       "Year": 1784,
@@ -3057,7 +3057,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1784,
@@ -3072,7 +3072,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1785,
@@ -3087,7 +3087,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 135
+      "Deaths": 135
     },
     {
       "Year": 1786,
@@ -3102,7 +3102,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "A",
-      "DEATHS": 38
+      "Deaths": 38
     },
     {
       "Year": 1789,
@@ -3117,7 +3117,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1790,
@@ -3132,7 +3132,7 @@
       "Type": "Shield volcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 5405
+      "Deaths": 5405
     },
     {
       "Year": 1792,
@@ -3147,7 +3147,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "W,A",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1794,
@@ -3162,7 +3162,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "M,L,T,G",
-      "DEATHS": 400
+      "Deaths": 400
     },
     {
       "Year": 1800,
@@ -3177,7 +3177,7 @@
       "Type": "Fissure vent",
       "VEI": 1,
       "Agent": "L",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1800,
@@ -3192,7 +3192,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1800,
@@ -3207,7 +3207,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1800,
@@ -3222,7 +3222,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "L",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1800,
@@ -3237,7 +3237,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1800,
@@ -3252,7 +3252,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1801,
@@ -3267,7 +3267,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 8
+      "Deaths": 8
     },
     {
       "Year": 1803,
@@ -3282,7 +3282,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1803,
@@ -3297,7 +3297,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1804,
@@ -3312,7 +3312,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1805,
@@ -3327,7 +3327,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1812,
@@ -3342,7 +3342,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T, m",
-      "DEATHS": 56
+      "Deaths": 56
     },
     {
       "Year": 1812,
@@ -3357,7 +3357,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,M",
-      "DEATHS": 953
+      "Deaths": 953
     },
     {
       "Year": 1813,
@@ -3372,7 +3372,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1814,
@@ -3387,7 +3387,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,M,E",
-      "DEATHS": 1200
+      "Deaths": 1200
     },
     {
       "Year": 1815,
@@ -3402,7 +3402,7 @@
       "Type": "Stratovolcano",
       "VEI": 7,
       "Agent": "P,W,A,I",
-      "DEATHS": 11000
+      "Deaths": 11000
     },
     {
       "Year": 1816,
@@ -3417,7 +3417,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1817,
@@ -3432,7 +3432,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1817,
@@ -3447,7 +3447,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1818,
@@ -3462,7 +3462,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1819,
@@ -3477,7 +3477,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1820,
@@ -3492,7 +3492,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1820,
@@ -3507,7 +3507,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1822,
@@ -3522,7 +3522,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 50
+      "Deaths": 50
     },
     {
       "Year": 1822,
@@ -3537,7 +3537,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "P,M",
-      "DEATHS": 4011
+      "Deaths": 4011
     },
     {
       "Year": 1822,
@@ -3552,7 +3552,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 100
+      "Deaths": 100
     },
     {
       "Year": 1823,
@@ -3567,7 +3567,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1824,
@@ -3582,7 +3582,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1825,
@@ -3597,7 +3597,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1826,
@@ -3612,7 +3612,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1826,
@@ -3627,7 +3627,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1826,
@@ -3642,7 +3642,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1827,
@@ -3657,7 +3657,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1827,
@@ -3672,7 +3672,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1829,
@@ -3687,7 +3687,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1832,
@@ -3702,7 +3702,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1832,
@@ -3717,7 +3717,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 32
+      "Deaths": 32
     },
     {
       "Year": 1833,
@@ -3732,7 +3732,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 126
+      "Deaths": 126
     },
     {
       "Year": 1835,
@@ -3747,7 +3747,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "G,I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1835,
@@ -3762,7 +3762,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1837,
@@ -3777,7 +3777,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1838,
@@ -3792,7 +3792,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1839,
@@ -3807,7 +3807,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1840,
@@ -3822,7 +3822,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1840,
@@ -3837,7 +3837,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1840,
@@ -3852,7 +3852,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 1900
+      "Deaths": 1900
     },
     {
       "Year": 1840,
@@ -3867,7 +3867,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1840,
@@ -3882,7 +3882,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1841,
@@ -3897,7 +3897,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1843,
@@ -3912,7 +3912,7 @@
       "Type": "Stratovolcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1843,
@@ -3927,7 +3927,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1843,
@@ -3942,7 +3942,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1843,
@@ -3957,7 +3957,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": 56
+      "Deaths": 56
     },
     {
       "Year": 1845,
@@ -3972,7 +3972,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1845,
@@ -3987,7 +3987,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 1000
+      "Deaths": 1000
     },
     {
       "Year": 1845,
@@ -4002,7 +4002,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1846,
@@ -4017,7 +4017,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 63
+      "Deaths": 63
     },
     {
       "Year": 1846,
@@ -4032,7 +4032,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1846,
@@ -4047,7 +4047,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1847,
@@ -4062,7 +4062,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "S",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1847,
@@ -4077,7 +4077,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1848,
@@ -4092,7 +4092,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 21
+      "Deaths": 21
     },
     {
       "Year": 1850,
@@ -4107,7 +4107,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1853,
@@ -4122,7 +4122,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "L",
-      "DEATHS": 25
+      "Deaths": 25
     },
     {
       "Year": 1853,
@@ -4137,7 +4137,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 34
+      "Deaths": 34
     },
     {
       "Year": 1853,
@@ -4152,7 +4152,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1854,
@@ -4167,7 +4167,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1854,
@@ -4182,7 +4182,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1854,
@@ -4197,7 +4197,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1856,
@@ -4212,7 +4212,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 2806
+      "Deaths": 2806
     },
     {
       "Year": 1856,
@@ -4227,7 +4227,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1856,
@@ -4242,7 +4242,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 20
+      "Deaths": 20
     },
     {
       "Year": 1857,
@@ -4257,7 +4257,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1858,
@@ -4272,7 +4272,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1858,
@@ -4287,7 +4287,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1858,
@@ -4302,7 +4302,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1860,
@@ -4317,7 +4317,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1860,
@@ -4332,7 +4332,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1860,
@@ -4347,7 +4347,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1861,
@@ -4362,7 +4362,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 106
+      "Deaths": 106
     },
     {
       "Year": 1861,
@@ -4377,7 +4377,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1861,
@@ -4392,7 +4392,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,I",
-      "DEATHS": 326
+      "Deaths": 326
     },
     {
       "Year": 1863,
@@ -4407,7 +4407,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1864,
@@ -4422,7 +4422,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 54
+      "Deaths": 54
     },
     {
       "Year": 1866,
@@ -4437,7 +4437,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1866,
@@ -4452,7 +4452,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1867,
@@ -4467,7 +4467,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1868,
@@ -4482,7 +4482,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "W,M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1868,
@@ -4497,7 +4497,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1869,
@@ -4512,7 +4512,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1869,
@@ -4527,7 +4527,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T,A",
-      "DEATHS": 8
+      "Deaths": 8
     },
     {
       "Year": 1870,
@@ -4542,7 +4542,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1870,
@@ -4557,7 +4557,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1870,
@@ -4572,7 +4572,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1871,
@@ -4587,7 +4587,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1871,
@@ -4602,7 +4602,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1871,
@@ -4617,7 +4617,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1871,
@@ -4632,7 +4632,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1872,
@@ -4647,7 +4647,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 30
+      "Deaths": 30
     },
     {
       "Year": 1872,
@@ -4662,7 +4662,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 170
+      "Deaths": 170
     },
     {
       "Year": 1872,
@@ -4677,7 +4677,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "L,G",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1872,
@@ -4692,7 +4692,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,T",
-      "DEATHS": 200
+      "Deaths": 200
     },
     {
       "Year": 1872,
@@ -4707,7 +4707,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1872,
@@ -4722,7 +4722,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1873,
@@ -4737,7 +4737,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1873,
@@ -4752,7 +4752,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G,T",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1874,
@@ -4767,7 +4767,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1874,
@@ -4782,7 +4782,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1875,
@@ -4797,7 +4797,7 @@
       "Type": "Stratovolcano",
       "VEI": 0,
       "Agent": "m",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1875,
@@ -4812,7 +4812,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1875,
@@ -4827,7 +4827,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1500
+      "Deaths": 1500
     },
     {
       "Year": 1877,
@@ -4842,7 +4842,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1877,
@@ -4857,7 +4857,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": 340
+      "Deaths": 340
     },
     {
       "Year": 1878,
@@ -4872,7 +4872,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1878,
@@ -4887,7 +4887,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1878,
@@ -4902,7 +4902,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1878,
@@ -4917,7 +4917,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1879,
@@ -4932,7 +4932,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1883,
@@ -4947,7 +4947,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1883,
@@ -4962,7 +4962,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "W,P,I",
-      "DEATHS": 2000
+      "Deaths": 2000
     },
     {
       "Year": 1883,
@@ -4977,7 +4977,7 @@
       "Type": "Lava dome",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": 8
+      "Deaths": 8
     },
     {
       "Year": 1883,
@@ -4992,7 +4992,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1883,
@@ -5007,7 +5007,7 @@
       "Type": "Lava cone",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1884,
@@ -5022,7 +5022,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1885,
@@ -5037,7 +5037,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "A",
-      "DEATHS": 74
+      "Deaths": 74
     },
     {
       "Year": 1885,
@@ -5052,7 +5052,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1886,
@@ -5067,7 +5067,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1886,
@@ -5082,7 +5082,7 @@
       "Type": "Lava dome",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 153
+      "Deaths": 153
     },
     {
       "Year": 1886,
@@ -5097,7 +5097,7 @@
       "Type": "Shield volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1887,
@@ -5112,7 +5112,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 15
+      "Deaths": 15
     },
     {
       "Year": 1888,
@@ -5127,7 +5127,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1888,
@@ -5142,7 +5142,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "A,P",
-      "DEATHS": 461
+      "Deaths": 461
     },
     {
       "Year": 1889,
@@ -5157,7 +5157,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1890,
@@ -5172,7 +5172,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1890,
@@ -5187,7 +5187,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1892,
@@ -5202,7 +5202,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 180
+      "Deaths": 180
     },
     {
       "Year": 1892,
@@ -5217,7 +5217,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,M",
-      "DEATHS": 1532
+      "Deaths": 1532
     },
     {
       "Year": 1892,
@@ -5232,7 +5232,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1893,
@@ -5247,7 +5247,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1893,
@@ -5262,7 +5262,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1894,
@@ -5277,7 +5277,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 3,
       "Agent": "T,L",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1895,
@@ -5292,7 +5292,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1895,
@@ -5307,7 +5307,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "I,M",
-      "DEATHS": 21
+      "Deaths": 21
     },
     {
       "Year": 1895,
@@ -5322,7 +5322,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1895,
@@ -5337,7 +5337,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "?",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1896,
@@ -5352,7 +5352,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1897,
@@ -5367,7 +5367,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1897,
@@ -5382,7 +5382,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,T,M",
-      "DEATHS": 350
+      "Deaths": 350
     },
     {
       "Year": 1899,
@@ -5397,7 +5397,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 55
+      "Deaths": 55
     },
     {
       "Year": 1899,
@@ -5412,7 +5412,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1900,
@@ -5427,7 +5427,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 25
+      "Deaths": 25
     },
     {
       "Year": 1900,
@@ -5442,7 +5442,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1900,
@@ -5457,7 +5457,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 72
+      "Deaths": 72
     },
     {
       "Year": 1900,
@@ -5472,7 +5472,7 @@
       "Type": "Pumice cone",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1901,
@@ -5487,7 +5487,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1901,
@@ -5502,7 +5502,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1902,
@@ -5517,7 +5517,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 23
+      "Deaths": 23
     },
     {
       "Year": 1902,
@@ -5532,7 +5532,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 1680
+      "Deaths": 1680
     },
     {
       "Year": 1902,
@@ -5547,7 +5547,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 28000
+      "Deaths": 28000
     },
     {
       "Year": 1902,
@@ -5562,7 +5562,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1902,
@@ -5577,7 +5577,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 125
+      "Deaths": 125
     },
     {
       "Year": 1902,
@@ -5592,7 +5592,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 1500
+      "Deaths": 1500
     },
     {
       "Year": 1902,
@@ -5607,7 +5607,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "T,G",
-      "DEATHS": 1500
+      "Deaths": 1500
     },
     {
       "Year": 1902,
@@ -5622,7 +5622,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 16
+      "Deaths": 16
     },
     {
       "Year": 1903,
@@ -5637,7 +5637,7 @@
       "Type": "Lava dome",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1903,
@@ -5652,7 +5652,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 17
+      "Deaths": 17
     },
     {
       "Year": 1904,
@@ -5667,7 +5667,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1905,
@@ -5682,7 +5682,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1905,
@@ -5697,7 +5697,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1906,
@@ -5712,7 +5712,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "T,L",
-      "DEATHS": 350
+      "Deaths": 350
     },
     {
       "Year": 1907,
@@ -5727,7 +5727,7 @@
       "Type": "Submarine volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1907,
@@ -5742,7 +5742,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1907,
@@ -5757,7 +5757,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1907,
@@ -5772,7 +5772,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1909,
@@ -5787,7 +5787,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1909,
@@ -5802,7 +5802,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "m",
-      "DEATHS": 221
+      "Deaths": 221
     },
     {
       "Year": 1910,
@@ -5817,7 +5817,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1910,
@@ -5832,7 +5832,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1911,
@@ -5847,7 +5847,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,W",
-      "DEATHS": 1335
+      "Deaths": 1335
     },
     {
       "Year": 1911,
@@ -5862,7 +5862,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1911,
@@ -5877,7 +5877,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1911,
@@ -5892,7 +5892,7 @@
       "Type": "Mud volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1911,
@@ -5907,7 +5907,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1912,
@@ -5922,7 +5922,7 @@
       "Type": "Caldera",
       "VEI": 6,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1912,
@@ -5937,7 +5937,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "L",
-      "DEATHS": 20
+      "Deaths": 20
     },
     {
       "Year": 1913,
@@ -5952,7 +5952,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,m",
-      "DEATHS": 13
+      "Deaths": 13
     },
     {
       "Year": 1913,
@@ -5967,7 +5967,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1913,
@@ -5982,7 +5982,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1913,
@@ -5997,7 +5997,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1913,
@@ -6012,7 +6012,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 21
+      "Deaths": 21
     },
     {
       "Year": 1914,
@@ -6027,7 +6027,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "I,S,A,T",
-      "DEATHS": 28
+      "Deaths": 28
     },
     {
       "Year": 1914,
@@ -6042,7 +6042,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1914,
@@ -6057,7 +6057,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 11
+      "Deaths": 11
     },
     {
       "Year": 1914,
@@ -6072,7 +6072,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "L",
-      "DEATHS": 100
+      "Deaths": 100
     },
     {
       "Year": 1916,
@@ -6087,7 +6087,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1916,
@@ -6102,7 +6102,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1917,
@@ -6117,7 +6117,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1917,
@@ -6132,7 +6132,7 @@
       "Type": "Lava dome",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1917,
@@ -6147,7 +6147,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1917,
@@ -6162,7 +6162,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "S,L",
-      "DEATHS": 325
+      "Deaths": 325
     },
     {
       "Year": 1918,
@@ -6177,7 +6177,7 @@
       "Type": "Submarine volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1918,
@@ -6192,7 +6192,7 @@
       "Type": "Subglacial volcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1919,
@@ -6207,7 +6207,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "A",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1919,
@@ -6222,7 +6222,7 @@
       "Type": "Submarine volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1919,
@@ -6237,7 +6237,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": 5110
+      "Deaths": 5110
     },
     {
       "Year": 1919,
@@ -6252,7 +6252,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1919,
@@ -6267,7 +6267,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1919,
@@ -6282,7 +6282,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1920,
@@ -6297,7 +6297,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 33
+      "Deaths": 33
     },
     {
       "Year": 1920,
@@ -6312,7 +6312,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1921,
@@ -6327,7 +6327,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1923,
@@ -6342,7 +6342,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1923,
@@ -6357,7 +6357,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1923,
@@ -6372,7 +6372,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1924,
@@ -6387,7 +6387,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1926,
@@ -6402,7 +6402,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M,T",
-      "DEATHS": 144
+      "Deaths": 144
     },
     {
       "Year": 1927,
@@ -6417,7 +6417,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1927,
@@ -6432,7 +6432,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1928,
@@ -6447,7 +6447,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "S",
-      "DEATHS": 48
+      "Deaths": 48
     },
     {
       "Year": 1928,
@@ -6462,7 +6462,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1928,
@@ -6477,7 +6477,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1928,
@@ -6492,7 +6492,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 40
+      "Deaths": 40
     },
     {
       "Year": 1928,
@@ -6507,7 +6507,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "W,T",
-      "DEATHS": 98
+      "Deaths": 98
     },
     {
       "Year": 1928,
@@ -6522,7 +6522,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "L",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1929,
@@ -6537,7 +6537,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1929,
@@ -6552,7 +6552,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1929,
@@ -6567,7 +6567,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1929,
@@ -6582,7 +6582,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,M",
-      "DEATHS": 200
+      "Deaths": 200
     },
     {
       "Year": 1930,
@@ -6597,7 +6597,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1930,
@@ -6612,7 +6612,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1930,
@@ -6627,7 +6627,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1930,
@@ -6642,7 +6642,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 1369
+      "Deaths": 1369
     },
     {
       "Year": 1931,
@@ -6657,7 +6657,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1932,
@@ -6672,7 +6672,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1932,
@@ -6687,7 +6687,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1932,
@@ -6702,7 +6702,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1933,
@@ -6717,7 +6717,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1933,
@@ -6732,7 +6732,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1933,
@@ -6747,7 +6747,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 8
+      "Deaths": 8
     },
     {
       "Year": 1933,
@@ -6762,7 +6762,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1934,
@@ -6777,7 +6777,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1936,
@@ -6792,7 +6792,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "P,T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1937,
@@ -6807,7 +6807,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "F",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1937,
@@ -6822,7 +6822,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 4,
       "Agent": "P,T,W,I",
-      "DEATHS": 507
+      "Deaths": 507
     },
     {
       "Year": 1938,
@@ -6837,7 +6837,7 @@
       "Type": "Shield volcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1938,
@@ -6852,7 +6852,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1938,
@@ -6867,7 +6867,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1938,
@@ -6882,7 +6882,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1939,
@@ -6897,7 +6897,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1939,
@@ -6912,7 +6912,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1940,
@@ -6927,7 +6927,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1940,
@@ -6942,7 +6942,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "L",
-      "DEATHS": 11
+      "Deaths": 11
     },
     {
       "Year": 1940,
@@ -6957,7 +6957,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1941,
@@ -6972,7 +6972,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1941,
@@ -6987,7 +6987,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1943,
@@ -7002,7 +7002,7 @@
       "Type": "Cinder cone",
       "VEI": 4,
       "Agent": "E",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1943,
@@ -7017,7 +7017,7 @@
       "Type": "Shield volcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1944,
@@ -7032,7 +7032,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T,L,I",
-      "DEATHS": 27
+      "Deaths": 27
     },
     {
       "Year": 1944,
@@ -7047,7 +7047,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1944,
@@ -7062,7 +7062,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1944,
@@ -7077,7 +7077,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1944,
@@ -7092,7 +7092,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1944,
@@ -7107,7 +7107,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 117
+      "Deaths": 117
     },
     {
       "Year": 1946,
@@ -7122,7 +7122,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1946,
@@ -7137,7 +7137,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "F",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1946,
@@ -7152,7 +7152,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1947,
@@ -7167,7 +7167,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1947,
@@ -7182,7 +7182,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 11
+      "Deaths": 11
     },
     {
       "Year": 1947,
@@ -7197,7 +7197,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 699
+      "Deaths": 699
     },
     {
       "Year": 1947,
@@ -7212,7 +7212,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "L",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1948,
@@ -7227,7 +7227,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1949,
@@ -7242,7 +7242,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 54
+      "Deaths": 54
     },
     {
       "Year": 1949,
@@ -7257,7 +7257,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 17
+      "Deaths": 17
     },
     {
       "Year": 1949,
@@ -7272,7 +7272,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1950,
@@ -7287,7 +7287,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "P",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1950,
@@ -7302,7 +7302,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 68
+      "Deaths": 68
     },
     {
       "Year": 1950,
@@ -7317,7 +7317,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1951,
@@ -7332,7 +7332,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P",
-      "DEATHS": 2942
+      "Deaths": 2942
     },
     {
       "Year": 1951,
@@ -7347,7 +7347,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1951,
@@ -7362,7 +7362,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 1951,
@@ -7377,7 +7377,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1951,
@@ -7392,7 +7392,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 500
+      "Deaths": 500
     },
     {
       "Year": 1951,
@@ -7407,7 +7407,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1952,
@@ -7422,7 +7422,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1952,
@@ -7437,7 +7437,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1952,
@@ -7452,7 +7452,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1952,
@@ -7467,7 +7467,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 31
+      "Deaths": 31
     },
     {
       "Year": 1952,
@@ -7482,7 +7482,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1952,
@@ -7497,7 +7497,7 @@
       "Type": "Compound volcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": 12
+      "Deaths": 12
     },
     {
       "Year": 1953,
@@ -7512,7 +7512,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1953,
@@ -7527,7 +7527,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 64
+      "Deaths": 64
     },
     {
       "Year": 1953,
@@ -7542,7 +7542,7 @@
       "Type": "Submarine volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1953,
@@ -7557,7 +7557,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1953,
@@ -7572,7 +7572,7 @@
       "Type": "Complex volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1953,
@@ -7587,7 +7587,7 @@
       "Type": "Complex volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1953,
@@ -7602,7 +7602,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1953,
@@ -7617,7 +7617,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1953,
@@ -7632,7 +7632,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 151
+      "Deaths": 151
     },
     {
       "Year": 1954,
@@ -7647,7 +7647,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1954,
@@ -7662,7 +7662,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1954,
@@ -7677,7 +7677,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "I",
-      "DEATHS": 25
+      "Deaths": 25
     },
     {
       "Year": 1954,
@@ -7692,7 +7692,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1955,
@@ -7707,7 +7707,7 @@
       "Type": "Pyroclastic cone",
       "VEI": 4,
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1955,
@@ -7722,7 +7722,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1956,
@@ -7737,7 +7737,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1957,
@@ -7752,7 +7752,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1957,
@@ -7767,7 +7767,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 13
+      "Deaths": 13
     },
     {
       "Year": 1957,
@@ -7782,7 +7782,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1957,
@@ -7797,7 +7797,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 12
+      "Deaths": 12
     },
     {
       "Year": 1958,
@@ -7812,7 +7812,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1958,
@@ -7827,7 +7827,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1958,
@@ -7842,7 +7842,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1960,
@@ -7857,7 +7857,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1961,
@@ -7872,7 +7872,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1961,
@@ -7887,7 +7887,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1961,
@@ -7902,7 +7902,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1961,
@@ -7917,7 +7917,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1961,
@@ -7932,7 +7932,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1962,
@@ -7947,7 +7947,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1962,
@@ -7962,7 +7962,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1962,
@@ -7977,7 +7977,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1963,
@@ -7992,7 +7992,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,T,M,A",
-      "DEATHS": 1028
+      "Deaths": 1028
     },
     {
       "Year": 1963,
@@ -8007,7 +8007,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 15
+      "Deaths": 15
     },
     {
       "Year": 1963,
@@ -8022,7 +8022,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1963,
@@ -8037,7 +8037,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 120
+      "Deaths": 120
     },
     {
       "Year": 1963,
@@ -8052,7 +8052,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1963,
@@ -8067,7 +8067,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1963,
@@ -8082,7 +8082,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 1963,
@@ -8097,7 +8097,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M,T",
-      "DEATHS": 40
+      "Deaths": 40
     },
     {
       "Year": 1964,
@@ -8112,7 +8112,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1964,
@@ -8127,7 +8127,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 25
+      "Deaths": 25
     },
     {
       "Year": 1964,
@@ -8142,7 +8142,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": 114
+      "Deaths": 114
     },
     {
       "Year": 1965,
@@ -8157,7 +8157,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,W",
-      "DEATHS": 355
+      "Deaths": 355
     },
     {
       "Year": 1966,
@@ -8172,7 +8172,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1966,
@@ -8187,7 +8187,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M,m,P",
-      "DEATHS": 215
+      "Deaths": 215
     },
     {
       "Year": 1966,
@@ -8202,7 +8202,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "P,M,I",
-      "DEATHS": 39
+      "Deaths": 39
     },
     {
       "Year": 1966,
@@ -8217,7 +8217,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1967,
@@ -8232,7 +8232,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1967,
@@ -8247,7 +8247,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1967,
@@ -8262,7 +8262,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1968,
@@ -8277,7 +8277,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M,P",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1968,
@@ -8292,7 +8292,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P,T",
-      "DEATHS": 80
+      "Deaths": 80
     },
     {
       "Year": 1969,
@@ -8307,7 +8307,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1969,
@@ -8322,7 +8322,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T,m",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1969,
@@ -8337,7 +8337,7 @@
       "Type": "Compound volcano",
       "VEI": 2,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1969,
@@ -8352,7 +8352,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1970,
@@ -8367,7 +8367,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "S",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1970,
@@ -8382,7 +8382,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1971,
@@ -8397,7 +8397,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1971,
@@ -8412,7 +8412,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1971,
@@ -8427,7 +8427,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M,T",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1971,
@@ -8442,7 +8442,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1971,
@@ -8457,7 +8457,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 15
+      "Deaths": 15
     },
     {
       "Year": 1971,
@@ -8472,7 +8472,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1972,
@@ -8487,7 +8487,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "I",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1972,
@@ -8502,7 +8502,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1972,
@@ -8517,7 +8517,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1973,
@@ -8532,7 +8532,7 @@
       "Type": "Submarine volcano",
       "VEI": 3,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1973,
@@ -8547,7 +8547,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1973,
@@ -8562,7 +8562,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "M",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1973,
@@ -8577,7 +8577,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "W",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1974,
@@ -8592,7 +8592,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "A",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1974,
@@ -8607,7 +8607,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1974,
@@ -8622,7 +8622,7 @@
       "Type": "Lava dome",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1974,
@@ -8637,7 +8637,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1974,
@@ -8652,7 +8652,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T,M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1974,
@@ -8667,7 +8667,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1974,
@@ -8682,7 +8682,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1975,
@@ -8697,7 +8697,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 80
+      "Deaths": 80
     },
     {
       "Year": 1975,
@@ -8712,7 +8712,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1975,
@@ -8727,7 +8727,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1976,
@@ -8742,7 +8742,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1976,
@@ -8757,7 +8757,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1976,
@@ -8772,7 +8772,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 119
+      "Deaths": 119
     },
     {
       "Year": 1976,
@@ -8787,7 +8787,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1976,
@@ -8802,7 +8802,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 29
+      "Deaths": 29
     },
     {
       "Year": 1977,
@@ -8817,7 +8817,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1977,
@@ -8832,7 +8832,7 @@
       "Type": "Shield volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1977,
@@ -8847,7 +8847,7 @@
       "Type": "Caldera",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1977,
@@ -8862,7 +8862,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1977,
@@ -8877,7 +8877,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "I",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1978,
@@ -8892,7 +8892,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "m",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1978,
@@ -8907,7 +8907,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1978,
@@ -8922,7 +8922,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1978,
@@ -8937,7 +8937,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 12
+      "Deaths": 12
     },
     {
       "Year": 1978,
@@ -8952,7 +8952,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "I",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1979,
@@ -8967,7 +8967,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "G",
-      "DEATHS": 149
+      "Deaths": 149
     },
     {
       "Year": 1979,
@@ -8982,7 +8982,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1979,
@@ -8997,7 +8997,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T,P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1979,
@@ -9012,7 +9012,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1979,
@@ -9027,7 +9027,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1979,
@@ -9042,7 +9042,7 @@
       "Type": "Complex volcano",
       "VEI": 0,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1980,
@@ -9057,7 +9057,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "P,M,T",
-      "DEATHS": 57
+      "Deaths": 57
     },
     {
       "Year": 1980,
@@ -9072,7 +9072,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1980,
@@ -9087,7 +9087,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1981,
@@ -9102,7 +9102,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1981,
@@ -9117,7 +9117,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1981,
@@ -9132,7 +9132,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1981,
@@ -9147,7 +9147,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "m",
-      "DEATHS": 372
+      "Deaths": 372
     },
     {
       "Year": 1981,
@@ -9162,7 +9162,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 200
+      "Deaths": 200
     },
     {
       "Year": 1981,
@@ -9177,7 +9177,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1981,
@@ -9192,7 +9192,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1982,
@@ -9207,7 +9207,7 @@
       "Type": "Tuff cone",
       "VEI": 5,
       "Agent": "P,T,M,S",
-      "DEATHS": 1879
+      "Deaths": 1879
     },
     {
       "Year": 1982,
@@ -9222,7 +9222,7 @@
       "Type": "Tuff cone",
       "VEI": 5,
       "Agent": "P",
-      "DEATHS": 33
+      "Deaths": 33
     },
     {
       "Year": 1982,
@@ -9237,7 +9237,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "I,T",
-      "DEATHS": 68
+      "Deaths": 68
     },
     {
       "Year": 1982,
@@ -9252,7 +9252,7 @@
       "Type": "Tuff cone",
       "VEI": 5,
       "Agent": "m",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1983,
@@ -9267,7 +9267,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1983,
@@ -9282,7 +9282,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1983,
@@ -9297,7 +9297,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "W",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1983,
@@ -9312,7 +9312,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1984,
@@ -9327,7 +9327,7 @@
       "Type": "Maar",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 37
+      "Deaths": 37
     },
     {
       "Year": 1984,
@@ -9342,7 +9342,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1984,
@@ -9357,7 +9357,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 29
+      "Deaths": 29
     },
     {
       "Year": 1984,
@@ -9372,7 +9372,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "S",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1985,
@@ -9387,7 +9387,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "A",
-      "DEATHS": 70
+      "Deaths": 70
     },
     {
       "Year": 1985,
@@ -9402,7 +9402,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 23080
+      "Deaths": 23080
     },
     {
       "Year": 1985,
@@ -9417,7 +9417,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "S",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1986,
@@ -9432,7 +9432,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1986,
@@ -9447,7 +9447,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1986,
@@ -9462,7 +9462,7 @@
       "Type": "Maar",
       "VEI": 3,
       "Agent": "G",
-      "DEATHS": 1700
+      "Deaths": 1700
     },
     {
       "Year": 1986,
@@ -9477,7 +9477,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1986,
@@ -9492,7 +9492,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "I",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1987,
@@ -9507,7 +9507,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1987,
@@ -9522,7 +9522,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1987,
@@ -9537,7 +9537,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1988,
@@ -9552,7 +9552,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "T,L",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1988,
@@ -9567,7 +9567,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1988,
@@ -9582,7 +9582,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1988,
@@ -9597,7 +9597,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1988,
@@ -9612,7 +9612,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "I",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1989,
@@ -9627,7 +9627,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1989,
@@ -9642,7 +9642,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1990,
@@ -9657,7 +9657,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1990,
@@ -9672,7 +9672,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T,P",
-      "DEATHS": 32
+      "Deaths": 32
     },
     {
       "Year": 1990,
@@ -9687,7 +9687,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1990,
@@ -9702,7 +9702,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1990,
@@ -9717,7 +9717,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1990,
@@ -9732,7 +9732,7 @@
       "Type": "Pyroclastic shield",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1990,
@@ -9747,7 +9747,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1990,
@@ -9762,7 +9762,7 @@
       "Type": "Caldera",
       "VEI": 2,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1990,
@@ -9777,7 +9777,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "S",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1990,
@@ -9792,7 +9792,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1991,
@@ -9807,7 +9807,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "P",
-      "DEATHS": 43
+      "Deaths": 43
     },
     {
       "Year": 1991,
@@ -9822,7 +9822,7 @@
       "Type": "Stratovolcano",
       "VEI": 6,
       "Agent": "P,m,I",
-      "DEATHS": 450
+      "Deaths": 450
     },
     {
       "Year": 1991,
@@ -9837,7 +9837,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "I",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1991,
@@ -9852,7 +9852,7 @@
       "Type": "Shield volcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1991,
@@ -9867,7 +9867,7 @@
       "Type": "Stratovolcano",
       "VEI": 5,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1991,
@@ -9882,7 +9882,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "T,P",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1991,
@@ -9897,7 +9897,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1992,
@@ -9912,7 +9912,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "M",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1992,
@@ -9927,7 +9927,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1992,
@@ -9942,7 +9942,7 @@
       "Type": "Cinder cone",
       "VEI": 3,
       "Agent": "T,I",
-      "DEATHS": 11
+      "Deaths": 11
     },
     {
       "Year": 1992,
@@ -9957,7 +9957,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "P",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1992,
@@ -9972,7 +9972,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1992,
@@ -9987,7 +9987,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "m",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1992,
@@ -10002,7 +10002,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1992,
@@ -10017,7 +10017,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1993,
@@ -10032,7 +10032,7 @@
       "Type": "Complex volcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 9
+      "Deaths": 9
     },
     {
       "Year": 1993,
@@ -10047,7 +10047,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1993,
@@ -10062,7 +10062,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 75
+      "Deaths": 75
     },
     {
       "Year": 1993,
@@ -10077,7 +10077,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1993,
@@ -10092,7 +10092,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "A",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1993,
@@ -10107,7 +10107,7 @@
       "Type": "Caldera",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1993,
@@ -10122,7 +10122,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "P",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1993,
@@ -10137,7 +10137,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "m",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1993,
@@ -10152,7 +10152,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 14
+      "Deaths": 14
     },
     {
       "Year": 1994,
@@ -10167,7 +10167,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1994,
@@ -10182,7 +10182,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1994,
@@ -10197,7 +10197,7 @@
       "Type": "Caldera",
       "VEI": 1,
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1994,
@@ -10212,7 +10212,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1994,
@@ -10227,7 +10227,7 @@
       "Type": "Pyroclastic shield",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1994,
@@ -10242,7 +10242,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "m",
-      "DEATHS": 31
+      "Deaths": 31
     },
     {
       "Year": 1994,
@@ -10257,7 +10257,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 60
+      "Deaths": 60
     },
     {
       "Year": 1995,
@@ -10272,7 +10272,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1995,
@@ -10287,7 +10287,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1995,
@@ -10302,7 +10302,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1995,
@@ -10317,7 +10317,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1995,
@@ -10332,7 +10332,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1995,
@@ -10347,7 +10347,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 60
+      "Deaths": 60
     },
     {
       "Year": 1996,
@@ -10362,7 +10362,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1996,
@@ -10377,7 +10377,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 1996,
@@ -10392,7 +10392,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1996,
@@ -10407,7 +10407,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1996,
@@ -10422,7 +10422,7 @@
       "Type": "Caldera",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1996,
@@ -10437,7 +10437,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 13
+      "Deaths": 13
     },
     {
       "Year": 1997,
@@ -10452,7 +10452,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 1997,
@@ -10467,7 +10467,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "P",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1997,
@@ -10482,7 +10482,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 22
+      "Deaths": 22
     },
     {
       "Year": 1997,
@@ -10497,7 +10497,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 1997,
@@ -10512,7 +10512,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1997,
@@ -10527,7 +10527,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1997,
@@ -10542,7 +10542,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 1997,
@@ -10557,7 +10557,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1997,
@@ -10572,7 +10572,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1998,
@@ -10587,7 +10587,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "L",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 1998,
@@ -10602,7 +10602,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 1998,
@@ -10617,7 +10617,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "m",
-      "DEATHS": 1620
+      "Deaths": 1620
     },
     {
       "Year": 1999,
@@ -10632,7 +10632,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1999,
@@ -10647,7 +10647,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1999,
@@ -10662,7 +10662,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 1999,
@@ -10677,7 +10677,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 1999,
@@ -10692,7 +10692,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2000,
@@ -10707,7 +10707,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2000,
@@ -10722,7 +10722,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2000,
@@ -10737,7 +10737,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2000,
@@ -10752,7 +10752,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2000,
@@ -10767,7 +10767,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "A",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2001,
@@ -10782,7 +10782,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2001,
@@ -10797,7 +10797,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2001,
@@ -10812,7 +10812,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2001,
@@ -10827,7 +10827,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2002,
@@ -10842,7 +10842,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2002,
@@ -10857,7 +10857,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": 100
+      "Deaths": 100
     },
     {
       "Year": 2002,
@@ -10872,7 +10872,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2002,
@@ -10887,7 +10887,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "I",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2002,
@@ -10902,7 +10902,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2002,
@@ -10917,7 +10917,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 2003,
@@ -10932,7 +10932,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2004,
@@ -10947,7 +10947,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2004,
@@ -10962,7 +10962,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "T",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2004,
@@ -10977,7 +10977,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 2005,
@@ -10992,7 +10992,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2005,
@@ -11007,7 +11007,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "A",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2005,
@@ -11022,7 +11022,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2006,
@@ -11037,7 +11037,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2006,
@@ -11052,7 +11052,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2006,
@@ -11067,7 +11067,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2006,
@@ -11082,7 +11082,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2006,
@@ -11097,7 +11097,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2006,
@@ -11112,7 +11112,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "T",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 2006,
@@ -11127,7 +11127,7 @@
       "Type": "Stratovolcano",
       "VEI": 1,
       "Agent": "m",
-      "DEATHS": 1266
+      "Deaths": 1266
     },
     {
       "Year": 2007,
@@ -11142,7 +11142,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "M",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 2007,
@@ -11157,7 +11157,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2007,
@@ -11172,7 +11172,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 6
+      "Deaths": 6
     },
     {
       "Year": 2007,
@@ -11187,7 +11187,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 2008,
@@ -11202,7 +11202,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2008,
@@ -11217,7 +11217,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2008,
@@ -11232,7 +11232,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "M",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2008,
@@ -11247,7 +11247,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 10
+      "Deaths": 10
     },
     {
       "Year": 2009,
@@ -11262,7 +11262,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2009,
@@ -11277,7 +11277,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2010,
@@ -11292,7 +11292,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2010,
@@ -11307,7 +11307,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2010,
@@ -11322,7 +11322,7 @@
       "Type": "Complex volcano",
       "VEI": 1,
       "Agent": "T",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2010,
@@ -11337,7 +11337,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2010,
@@ -11352,7 +11352,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 2010,
@@ -11367,7 +11367,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 2
+      "Deaths": 2
     },
     {
       "Year": 2010,
@@ -11382,7 +11382,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 367
+      "Deaths": 367
     },
     {
       "Year": 2010,
@@ -11397,7 +11397,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2010,
@@ -11412,7 +11412,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11427,7 +11427,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2011,
@@ -11442,7 +11442,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11457,7 +11457,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2011,
@@ -11472,7 +11472,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11487,7 +11487,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11502,7 +11502,7 @@
       "Type": "Stratovolcano",
       "VEI": 4,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11517,7 +11517,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 31
+      "Deaths": 31
     },
     {
       "Year": 2011,
@@ -11532,7 +11532,7 @@
       "Type": "Subglacial volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2011,
@@ -11547,7 +11547,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2011,
@@ -11562,7 +11562,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "m",
-      "DEATHS": 4
+      "Deaths": 4
     },
     {
       "Year": 2012,
@@ -11577,7 +11577,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2012,
@@ -11592,7 +11592,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "L",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2012,
@@ -11607,7 +11607,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2013,
@@ -11622,7 +11622,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2013,
@@ -11637,7 +11637,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2013,
@@ -11652,7 +11652,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 2013,
@@ -11667,7 +11667,7 @@
       "Type": "Stratovolcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 5
+      "Deaths": 5
     },
     {
       "Year": 2013,
@@ -11682,7 +11682,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2013,
@@ -11697,7 +11697,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2013,
@@ -11712,7 +11712,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2013,
@@ -11727,7 +11727,7 @@
       "Type": "Lava dome",
       "VEI": "",
       "Agent": "G",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2014,
@@ -11742,7 +11742,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 17
+      "Deaths": 17
     },
     {
       "Year": 2014,
@@ -11757,7 +11757,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 2014,
@@ -11772,7 +11772,7 @@
       "Type": "Complex volcano",
       "VEI": 3,
       "Agent": "",
-      "DEATHS": 55
+      "Deaths": 55
     },
     {
       "Year": 2014,
@@ -11787,7 +11787,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2014,
@@ -11802,7 +11802,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2014,
@@ -11817,7 +11817,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2015,
@@ -11832,7 +11832,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2015,
@@ -11847,7 +11847,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2015,
@@ -11862,7 +11862,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2015,
@@ -11877,7 +11877,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2015,
@@ -11892,7 +11892,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "M",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2015,
@@ -11907,7 +11907,7 @@
       "Type": "Lava dome",
       "VEI": "",
       "Agent": "I",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2016,
@@ -11922,7 +11922,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2016,
@@ -11937,7 +11937,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 7
+      "Deaths": 7
     },
     {
       "Year": 2016,
@@ -11952,7 +11952,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     },
     {
       "Year": 2016,
@@ -11967,7 +11967,7 @@
       "Type": "Stratovolcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2016,
@@ -11982,7 +11982,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2017,
@@ -11997,7 +11997,7 @@
       "Type": "Stratovolcano",
       "VEI": 2,
       "Agent": "P",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2017,
@@ -12012,7 +12012,7 @@
       "Type": "Complex volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 8
+      "Deaths": 8
     },
     {
       "Year": 2017,
@@ -12027,7 +12027,7 @@
       "Type": "Caldera",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 3
+      "Deaths": 3
     },
     {
       "Year": 2017,
@@ -12042,7 +12042,7 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "T",
-      "DEATHS": ""
+      "Deaths": 0
     },
     {
       "Year": 2017,
@@ -12057,6 +12057,6 @@
       "Type": "Shield volcano",
       "VEI": "",
       "Agent": "",
-      "DEATHS": 1
+      "Deaths": 1
     }
   ]

@@ -1,24 +1,24 @@
-let nums = [1,2,3,4,5];
-let nums2 = [];
-// MAP
-// for (let i=0; i<nums.length; i++) {
-//     nums2.push(nums[i] * 2);
-// } 
-// console.log(nums2);
+let students = [{ firstName: 'Eric',   lastName: 'Couch',   age: 47, gender: 'M', married: true,  faction: 'Jedi'},
+                { firstName: 'Rashad', lastName: 'Davis',   age: 32, gender: 'M', married: false, faction: 'Jedi'},
+                { firstName: 'Tigre',  lastName: 'Anthony', age: 38, gender: 'M', married: true,  faction: 'Jedi'}, 
+                { firstName: 'Marissa',lastName: 'Sams',    age: 23, gender: 'F', married: false, faction: 'Sith'}, 
+                { firstName: 'Joshua', lastName: 'Hilton',  age: 22, gender: 'M', married: false, faction: 'Sith'}, 
+                { firstName: 'Gulnar', lastName: 'Thawar',  age: 34, gender: 'F', married: true,  faction: 'Jedi'}, 
+                { firstName: 'Omnia',  lastName: 'saeed',   age: 30, gender: 'F', married: true,  faction: 'Sith'}, 
+                { firstName: 'Daniel', lastName: 'Perez',   age: 25, gender: 'M', married: false, faction: 'Jedi'}, 
+                { firstName: 'Derek',  lastName: 'Bacy',    age: 28, gender: 'M', married: false, faction: 'Sith'}];
 
-// nums2 = nums.map(function(item) {
-//     return item *2;
-// })
+let ages, siths, males, maleNames;
 
-//nums2 = nums.map(item => item*2);
-console.log(nums2);
+//  create a list of just the ages
+ages = students.map(s => s.ages);
 
-let birthYear = [1972,1987,1981,1992,1997]
-let ages = [];
-// for (let i=0; i<birthYear.length;i++) {
-//     let age = 2020 - birthYear[i];
-//     ages.push(age);
-// }
+//  create a list of strings for the male names
+males = students.filter(s => s.gender == 'M').map(s => s.firstName);
 
-ages = birthYear.map(age => 2020-age);
-console.log(ages);
+//  create a JSON list of first and last names of the males
+maleNames = students.filter(s => s.gender == 'M').map(s => ({first: s.firstName, last: s.lastName}));
+console.table(maleNames)
+
+//  create a list of all first names 
+//  create a list names (first and last) for all female Siths
