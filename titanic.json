@@ -261,7 +261,7 @@
        "age": "35",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -558,7 +558,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -575,7 +575,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -616,7 +616,7 @@
        "age": "31",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -817,7 +817,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -938,7 +938,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -947,7 +947,7 @@
        "age": "46",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -971,7 +971,7 @@
        "firstName": "Mr John",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1052,7 +1052,7 @@
        "age": "26",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -1077,7 +1077,7 @@
        "age": "46",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1086,7 +1086,7 @@
        "age": "56",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1103,7 +1103,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1112,7 +1112,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1169,7 +1169,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1234,7 +1234,7 @@
        "age": "31",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1243,7 +1243,7 @@
        "age": "32",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1252,7 +1252,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1285,7 +1285,7 @@
        "age": "31",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -1382,7 +1382,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1567,7 +1567,7 @@
        "age": "50",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1576,7 +1576,7 @@
        "age": "26",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1585,7 +1585,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1650,7 +1650,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -1691,7 +1691,7 @@
        "age": "46",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -1740,7 +1740,7 @@
        "age": "31",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -1789,7 +1789,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1822,7 +1822,7 @@
        "age": "41",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -1831,7 +1831,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1864,7 +1864,7 @@
        "age": "37",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -1873,7 +1873,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -1938,7 +1938,7 @@
        "age": "40",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -1955,7 +1955,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2108,7 +2108,7 @@
        "age": "45",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -2141,7 +2141,7 @@
        "age": "38",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -2150,7 +2150,7 @@
        "age": "28",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": true
     },
     {
@@ -2159,7 +2159,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2240,7 +2240,7 @@
        "age": "24",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -2248,7 +2248,7 @@
        "firstName": "Mr",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -2281,7 +2281,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2306,7 +2306,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -2355,7 +2355,7 @@
        "age": "20",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -2364,7 +2364,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2461,7 +2461,7 @@
        "age": "18",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -2494,7 +2494,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -2543,7 +2543,7 @@
        "age": "31",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -2552,7 +2552,7 @@
        "age": "22",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2697,7 +2697,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2706,7 +2706,7 @@
        "age": "41",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -2723,7 +2723,7 @@
        "age": "32",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2732,7 +2732,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2765,7 +2765,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Left with Consent",
+       "role": "Left with Consent",
        "survivor": false
     },
     {
@@ -2894,7 +2894,7 @@
        "age": "50",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -2903,7 +2903,7 @@
        "age": "28",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -2984,7 +2984,7 @@
        "age": "20",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -3073,7 +3073,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3153,7 +3153,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3178,7 +3178,7 @@
        "age": "27",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -3274,7 +3274,7 @@
        "firstName": "Mr William J.",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3451,7 +3451,7 @@
        "age": "36",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -3476,7 +3476,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3517,7 +3517,7 @@
        "age": "43",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -3638,7 +3638,7 @@
        "age": "28",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -3655,7 +3655,7 @@
        "age": "22",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -3664,7 +3664,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3697,7 +3697,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3722,7 +3722,7 @@
        "age": "23",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -3818,7 +3818,7 @@
        "firstName": "Mr",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -3915,7 +3915,7 @@
        "age": "46",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -3924,7 +3924,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4093,7 +4093,7 @@
        "age": "23",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4102,7 +4102,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4119,7 +4119,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -4232,7 +4232,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4241,7 +4241,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4346,7 +4346,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4363,7 +4363,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4372,7 +4372,7 @@
        "age": "45",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4413,7 +4413,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4422,7 +4422,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4455,7 +4455,7 @@
        "age": "21",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -4480,7 +4480,7 @@
        "age": "41",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4585,7 +4585,7 @@
        "age": "36",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -4633,7 +4633,7 @@
        "firstName": "Miss K.",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -4673,7 +4673,7 @@
        "firstName": "Mr H. V.",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -4762,7 +4762,7 @@
        "age": "38",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Discharged Crew",
+       "role": "Discharged Crew",
        "survivor": false
     },
     {
@@ -4771,7 +4771,7 @@
        "age": "24",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -4787,7 +4787,7 @@
        "firstName": "Mr J.",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -4892,7 +4892,7 @@
        "age": "47",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4949,7 +4949,7 @@
        "age": "42",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -4982,7 +4982,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5023,7 +5023,7 @@
        "age": "24",
        "paxClass": "Restaurant Staff",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -5072,7 +5072,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -5137,7 +5137,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -5218,7 +5218,7 @@
        "age": "34",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5307,7 +5307,7 @@
        "age": "31",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5436,7 +5436,7 @@
        "age": "47",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5477,7 +5477,7 @@
        "age": "65",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -5486,7 +5486,7 @@
        "age": "53",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -5671,7 +5671,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5704,7 +5704,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -5713,7 +5713,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5754,7 +5754,7 @@
        "age": "31",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Discharged Crew",
+       "role": "Discharged Crew",
        "survivor": false
     },
     {
@@ -5770,7 +5770,7 @@
        "firstName": "Miss",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -5859,7 +5859,7 @@
        "age": "31",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5884,7 +5884,7 @@
        "age": "48",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -5949,7 +5949,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -5966,7 +5966,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6015,7 +6015,7 @@
        "age": "38",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -6024,7 +6024,7 @@
        "age": "24",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -6049,7 +6049,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6090,7 +6090,7 @@
        "age": "42",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -6099,7 +6099,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6107,7 +6107,7 @@
        "firstName": "Miss N.",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -6124,7 +6124,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6133,7 +6133,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6293,7 +6293,7 @@
        "firstName": "Mr J.",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -6301,7 +6301,7 @@
        "firstName": "Mrs",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -6398,7 +6398,7 @@
        "age": "31",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -6503,7 +6503,7 @@
        "age": "38",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -6512,7 +6512,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -6585,7 +6585,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6618,7 +6618,7 @@
        "age": "45",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6659,7 +6659,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -6691,7 +6691,7 @@
        "age": "20",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6700,7 +6700,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -6717,7 +6717,7 @@
        "age": "35",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -6726,7 +6726,7 @@
        "age": "23",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -7007,7 +7007,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -7024,7 +7024,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7057,7 +7057,7 @@
        "age": "41",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7154,7 +7154,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7267,7 +7267,7 @@
        "age": "37",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Postal Clerk",
+       "role": "Postal Clerk",
        "survivor": false
     },
     {
@@ -7284,7 +7284,7 @@
        "age": "51",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -7293,7 +7293,7 @@
        "age": "50",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7350,7 +7350,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7383,7 +7383,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7408,7 +7408,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7449,7 +7449,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7474,7 +7474,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7603,7 +7603,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7620,7 +7620,7 @@
        "age": "31",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7661,7 +7661,7 @@
        "age": "37",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -7734,7 +7734,7 @@
        "age": "32",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7775,7 +7775,7 @@
        "age": "45",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -7832,7 +7832,7 @@
        "age": "33",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -7857,7 +7857,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7866,7 +7866,7 @@
        "age": "27",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -7883,7 +7883,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Transferred",
+       "role": "Transferred",
        "survivor": false
     },
     {
@@ -7980,7 +7980,7 @@
        "age": "39",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -7989,7 +7989,7 @@
        "age": "45",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8102,7 +8102,7 @@
        "age": "47",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8119,7 +8119,7 @@
        "age": "27",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8128,7 +8128,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8281,7 +8281,7 @@
        "age": "42",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8482,7 +8482,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -8491,7 +8491,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8500,7 +8500,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8541,7 +8541,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8550,7 +8550,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8639,7 +8639,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8656,7 +8656,7 @@
        "age": "22",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -8769,7 +8769,7 @@
        "age": "21",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -8850,7 +8850,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -8899,7 +8899,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -9092,7 +9092,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9101,7 +9101,7 @@
        "age": "48",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9182,7 +9182,7 @@
        "age": "31",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9479,7 +9479,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9664,7 +9664,7 @@
        "age": "27",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9729,7 +9729,7 @@
        "age": "58",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9738,7 +9738,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9747,7 +9747,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9756,7 +9756,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9765,7 +9765,7 @@
        "age": "33",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -9910,7 +9910,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -9919,7 +9919,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -10000,7 +10000,7 @@
        "age": "29",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Left Ship Sick",
+       "role": "Left Ship Sick",
        "survivor": false
     },
     {
@@ -10113,7 +10113,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -10122,7 +10122,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -10202,7 +10202,7 @@
        "firstName": "Miss",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -10227,7 +10227,7 @@
        "age": "42",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -10275,7 +10275,7 @@
        "age": "29",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -10284,7 +10284,7 @@
        "age": "23",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -10629,7 +10629,7 @@
        "age": "10",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -10638,7 +10638,7 @@
        "age": "11",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -10647,7 +10647,7 @@
        "age": "34",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -10656,7 +10656,7 @@
        "age": "44",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -10673,7 +10673,7 @@
        "age": "27",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -10690,7 +10690,7 @@
        "age": "35",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -10723,7 +10723,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -10780,7 +10780,7 @@
        "age": "38",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": true
     },
     {
@@ -10901,7 +10901,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -10910,7 +10910,7 @@
        "age": "49",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -10943,7 +10943,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -10968,7 +10968,7 @@
        "age": "33",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -11049,7 +11049,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11074,7 +11074,7 @@
        "age": "29",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": true
     },
     {
@@ -11083,7 +11083,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11140,7 +11140,7 @@
        "age": "59",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -11181,7 +11181,7 @@
        "age": "31",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11278,7 +11278,7 @@
        "age": "20",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -11367,7 +11367,7 @@
        "age": "23",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -11376,7 +11376,7 @@
        "age": "26",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11385,7 +11385,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11410,7 +11410,7 @@
        "age": "50",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Postal Clerk",
+       "role": "Postal Clerk",
        "survivor": false
     },
     {
@@ -11507,7 +11507,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11564,7 +11564,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11573,7 +11573,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11630,7 +11630,7 @@
        "age": "45",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11647,7 +11647,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11671,7 +11671,7 @@
        "firstName": "Mr Richard W.",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -11679,7 +11679,7 @@
        "firstName": "Mr Stanley",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -11696,7 +11696,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11745,7 +11745,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11754,7 +11754,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11779,7 +11779,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11787,7 +11787,7 @@
        "firstName": "Mr Thomas",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11804,7 +11804,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11845,7 +11845,7 @@
        "age": "49",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11926,7 +11926,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11935,7 +11935,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11952,7 +11952,7 @@
        "age": "48",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11961,7 +11961,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -11970,7 +11970,7 @@
        "age": "49",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12011,7 +12011,7 @@
        "age": "34",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12020,7 +12020,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12029,7 +12029,7 @@
        "age": "48",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12038,7 +12038,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12047,7 +12047,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12056,7 +12056,7 @@
        "age": "41",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12065,7 +12065,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12074,7 +12074,7 @@
        "age": "49",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12083,7 +12083,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12132,7 +12132,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12149,7 +12149,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12158,7 +12158,7 @@
        "age": "45",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12167,7 +12167,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12176,7 +12176,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12185,7 +12185,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12194,7 +12194,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12203,7 +12203,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12220,7 +12220,7 @@
        "age": "48",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12253,7 +12253,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12262,7 +12262,7 @@
        "age": "40",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12271,7 +12271,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12312,7 +12312,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12321,7 +12321,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12330,7 +12330,7 @@
        "age": "55",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12339,7 +12339,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12348,7 +12348,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12421,7 +12421,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12438,7 +12438,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12519,7 +12519,7 @@
        "age": "35",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Failed to Join Ship",
+       "role": "Failed to Join Ship",
        "survivor": false
     },
     {
@@ -12616,7 +12616,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12633,7 +12633,7 @@
        "age": "26",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12794,7 +12794,7 @@
        "age": "24",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -12915,7 +12915,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12948,7 +12948,7 @@
        "age": "24",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -12973,7 +12973,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13061,7 +13061,7 @@
        "firstName": "none",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13078,7 +13078,7 @@
        "age": "48",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13087,7 +13087,7 @@
        "age": "45",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13136,7 +13136,7 @@
        "age": "39",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -13177,7 +13177,7 @@
        "age": "35",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13370,7 +13370,7 @@
        "age": "42",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13483,7 +13483,7 @@
        "age": "48",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13571,7 +13571,7 @@
        "age": "55",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13580,7 +13580,7 @@
        "age": "13",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13597,7 +13597,7 @@
        "age": "31",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13726,7 +13726,7 @@
        "age": "29",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": true
     },
     {
@@ -13767,7 +13767,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -13824,7 +13824,7 @@
        "age": "11",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13832,7 +13832,7 @@
        "firstName": "Miss Kate",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13840,7 +13840,7 @@
        "firstName": "Mrs Lily May",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -13857,7 +13857,7 @@
        "age": "39",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -14001,7 +14001,7 @@
        "firstName": "Miss D.",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -14282,7 +14282,7 @@
        "age": "21",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -14291,7 +14291,7 @@
        "age": "29",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -14364,7 +14364,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -14381,7 +14381,7 @@
        "age": "23",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -14542,7 +14542,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -14607,7 +14607,7 @@
        "age": "39",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -14624,7 +14624,7 @@
        "age": "33",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -14809,7 +14809,7 @@
        "age": "27",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -14834,7 +14834,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -14867,7 +14867,7 @@
        "age": "39",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -14876,7 +14876,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -14901,7 +14901,7 @@
        "age": "34",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": true
     },
     {
@@ -15190,7 +15190,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -15311,7 +15311,7 @@
        "age": "36",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -15335,7 +15335,7 @@
        "firstName": "Miss",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -15496,7 +15496,7 @@
        "age": "23",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -15569,7 +15569,7 @@
        "age": "28",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -15690,7 +15690,7 @@
        "age": "45",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -15715,7 +15715,7 @@
        "age": "43",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -15724,7 +15724,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -15749,7 +15749,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -16222,7 +16222,7 @@
        "age": "24",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -16559,7 +16559,7 @@
        "age": "30",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -16600,7 +16600,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -16625,7 +16625,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -16642,7 +16642,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -16747,7 +16747,7 @@
        "age": "40",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -16828,7 +16828,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -16853,7 +16853,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Left with Consent",
+       "role": "Left with Consent",
        "survivor": false
     },
     {
@@ -17006,7 +17006,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -17015,7 +17015,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -17024,7 +17024,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Deserted",
+       "role": "Deserted",
        "survivor": false
     },
     {
@@ -17080,7 +17080,7 @@
        "firstName": "Mr Thomas",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17145,7 +17145,7 @@
        "age": "62",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -17218,7 +17218,7 @@
        "age": "35",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Postal Clerk",
+       "role": "Postal Clerk",
        "survivor": false
     },
     {
@@ -17227,7 +17227,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17260,7 +17260,7 @@
        "age": "44",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17301,7 +17301,7 @@
        "age": "33",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17526,7 +17526,7 @@
        "age": "46",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17551,7 +17551,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -17583,7 +17583,7 @@
        "firstName": "Mr George",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -17592,7 +17592,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17601,7 +17601,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17610,7 +17610,7 @@
        "age": "49",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17635,7 +17635,7 @@
        "age": "30",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": true
     },
     {
@@ -17644,7 +17644,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17725,7 +17725,7 @@
        "age": "38",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17886,7 +17886,7 @@
        "age": "19",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -17895,7 +17895,7 @@
        "age": "22",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17904,7 +17904,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -17945,7 +17945,7 @@
        "age": "23",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18090,7 +18090,7 @@
        "age": "40",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -18227,7 +18227,7 @@
        "age": "25",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18244,7 +18244,7 @@
        "age": "49",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18268,7 +18268,7 @@
        "firstName": "Mr Joey",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -18357,7 +18357,7 @@
        "age": "40",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18461,7 +18461,7 @@
        "firstName": "Miss",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
@@ -18638,7 +18638,7 @@
        "age": "25",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18927,7 +18927,7 @@
        "age": "43",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18944,7 +18944,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18969,7 +18969,7 @@
        "age": "32",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -18994,7 +18994,7 @@
        "age": "37",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -19035,7 +19035,7 @@
        "age": "24",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": true
     },
     {
@@ -19140,7 +19140,7 @@
        "age": "18",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "H&W Guarantee Group",
+       "role": "H&W Guarantee Group",
        "survivor": false
     },
     {
@@ -19181,7 +19181,7 @@
        "age": "26",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -19318,7 +19318,7 @@
        "age": "50",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -19391,7 +19391,7 @@
        "age": "26",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": false
     },
     {
@@ -19416,7 +19416,7 @@
        "age": "41",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -19601,7 +19601,7 @@
        "age": "39",
        "paxClass": "Deck",
        "passenger": false,
-       "Role": "Titanic Officers",
+       "role": "Titanic Officers",
        "survivor": false
     },
     {
@@ -19729,7 +19729,7 @@
        "age": "35",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Postal Clerk",
+       "role": "Postal Clerk",
        "survivor": false
     },
     {
@@ -19754,7 +19754,7 @@
        "age": "33",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Servant",
+       "role": "Servant",
        "survivor": true
     },
     {
@@ -19779,7 +19779,7 @@
        "age": "38",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": true
     },
     {
@@ -19828,7 +19828,7 @@
        "age": "37",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "Substitute Crew",
+       "role": "Substitute Crew",
        "survivor": false
     },
     {
@@ -19893,7 +19893,7 @@
        "age": "41",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -19902,7 +19902,7 @@
        "age": "28",
        "paxClass": "Engineering",
        "passenger": false,
-       "Role": "(Delivery trip only)",
+       "role": "(Delivery trip only)",
        "survivor": false
     },
     {
@@ -19911,7 +19911,7 @@
        "age": "32",
        "paxClass": "2nd Class",
        "passenger": true,
-       "Role": "Musician",
+       "role": "Musician",
        "survivor": false
     },
     {
@@ -19920,7 +19920,7 @@
        "age": "41",
        "paxClass": "Victualling",
        "passenger": false,
-       "Role": "Postal Clerk",
+       "role": "Postal Clerk",
        "survivor": false
     },
     {
@@ -19953,7 +19953,7 @@
        "age": "54",
        "paxClass": "1st Class",
        "passenger": true,
-       "Role": "Cross Channel Passenger",
+       "role": "Cross Channel Passenger",
        "survivor": true
     },
     {
