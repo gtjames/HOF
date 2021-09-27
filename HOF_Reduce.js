@@ -5,7 +5,7 @@ let x = ages.join("-");
 console.log('all the numbers joined with a dash between\n\t' + x);
 
 // get the total of all ages using a HOF
-totalAges = ages.reduce((total, age) => total + age);
+let totalAges = ages.reduce((total, age) => total + age);
 console.log('total ages: ' + totalAges);
 
 let students = [{ firstName: 'Eric',   lastName: 'Couch',   age: 47, gender: 'M', married: true,  faction: 'Jedi'},
@@ -32,7 +32,7 @@ console.table(under30);
 //      map from
 
 //  get the total of all the ages
-let totalAges, ageArray;
+let ageArray;
 
 //  get just an array of ages first then compute the total age
 ageArray = students.map(s => s.age);                        //  just get the ages into an array
@@ -43,9 +43,9 @@ totalAges = students.map(s => s.age).reduce((total, age) => total + age)   //  d
 console.log('Version 2 total ages: ' + totalAges);
 
 // get the total of all ages using an inline anonymous function
-totalAges = ages.reduce(function(total, age) {
-    return total + age;
-})
+totalAges = students.reduce(function(total, student) {
+    return total + student.age;
+}, 0);
 console.log('Version 3 total ages: ' + totalAges);
 
 totalAges = students.reduce((total, student) => total + student.age, 0)    //  do it all in a single line

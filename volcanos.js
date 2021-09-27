@@ -45,7 +45,7 @@ console.log('total US Deaths: ' + usVolcanoes);
 
 //  average elevation of all volcanoes
 let ele = volcanoes.reduce((total, v) => total + v.Elevation, 0)/volcanoes.length;
-console.log('average elevation of all volcanoes ' + ele / volcanoes.length);
+console.log(`average elevation of all volcanoes ${(ele / volcanoes.length).toFixed(2)}`);
 
 //  how many volcanoes erupted after 2000
 let after2000 = volcanoes.filter(v => v.Year >= 2000).length;
