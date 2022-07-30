@@ -25,7 +25,7 @@ Use `node hof.js` to run.
     "Type": "Stratovolcano",
     "VEI": 5,
     "Agent": "T,F",
-    "DEATHS": 220
+    "Deaths": 220
   }
 ```
 
