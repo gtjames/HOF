@@ -1,11 +1,13 @@
 const passengers = require('./titanic.json');
 //  clean up the ages. some of them were blank. 
 //  Coerce them in to being an integer
-passengers.forEach(p => p.age = +p.age);    //  look at the JSON file age is a string
+// passengers.forEach(p => p.age = +p.age);    //  look at the JSON file age is a string
+let noAge = passengers.filter(p => typeof p.age === "undefined")
+noAge.forEach(p => p.age = (typeof p.age === "undefined") ? 0 : p.age)
 
 console.log(`number of passengers and crew: ${passengers.length}`);
 
-let survivors = passengers.filter(p => p.survivor === true);        //  or just     p.survivor
+let survivors = passengers.filter(pax => pax.survivor === true);        //  or just     p.survivor
 console.log('number of survivors: ' + survivors.length);
 
 // 3rd class passengers over 60
